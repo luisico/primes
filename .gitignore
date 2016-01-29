@@ -1,0 +1,10 @@
+/tmp
+
+# Ignore editor tmp files
+*~
+\#*\#
+.\#*
+.*.sw[a-z]
+
+# Ignore ctags files
+TAGS
